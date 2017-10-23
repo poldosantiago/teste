@@ -1,0 +1,9 @@
+Como criar novo projeto [DEFINITIVO]:
+
+#CASO NAO TENHA INSTALADO
+npm install -g @angular/cli 
+
+#DEPOIS...
+ng new nome-projeto
+cd nome-projeto
+ng serve

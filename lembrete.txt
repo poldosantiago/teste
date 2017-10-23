@@ -1,0 +1,5 @@
+#roda esse comando
+npm install ngx-bootstrap bootstrap --save
+
+# poe a linha abaixo no arquivo .angular-cli.json em styles:
+"../node_modules/bootstrap/dist/css/bootstrap.min.css"
