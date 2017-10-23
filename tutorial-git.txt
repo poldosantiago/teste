@@ -1,0 +1,15 @@
+#verificar se ouve alguma mudanca ou um arquivo novo
+git status
+
+
+#adicionar essa mudanca (tudo)
+git add .
+
+#comitar mudancas
+git commit -m "comentario do commit"
+
+#definindo repositorio
+git remote add origin https://github.com/poldosantiago/teste.git
+
+#enviando as mudancas
+git push -u origin master
